@@ -1,0 +1,11 @@
+{
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    { "language": "typescript", "autoFix": true },
+    { "language": "typescriptreact", "autoFix": true }
+  ],
+  "editor.formatOnSave": true,
+  "appService.defaultWebAppToDeploy": "/subscriptions/7db45d85-5490-4bbe-9955-23885f2a3d30/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/QandAJulianFrontend",
+  "appService.deploySubpath": "build"
+}
