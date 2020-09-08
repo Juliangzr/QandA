@@ -66,7 +66,7 @@ export const Header: FC<RouteComponentProps> = ({ history, location }) => {
             text-decoration: none;
           `}
         >
-          Q & A
+          Q & A - Julian
         </Link>
         <span
           css={css`
